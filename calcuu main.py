@@ -1,0 +1,11 @@
+from calcuu import *
+a=int(input("Enter the number : "))
+b=int(input("Enter the number : "))
+s=sum(a,b)
+print("The sum is : ",s)
+su=sub(a,b)
+print("The substraction is : ",su)
+m=mul(a,b)
+print("The multiplication is : ",m)
+d=div(a,b)
+print("The division is : ",d)

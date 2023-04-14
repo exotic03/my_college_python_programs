@@ -1,0 +1,6 @@
+a=int(input("Entre the number of 10 rupee coins"))
+b=int(input("Enter the number of 5 rupee coins"))
+c=int(input("Enter the number of 2 rupee coins"))
+d=int(input("Enter the number of 1 rupee coins"))
+total=(10*a)+(5*b)+(2*c)+(1*d)
+print("The total amount is : ",total)
