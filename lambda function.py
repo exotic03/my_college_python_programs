@@ -5,4 +5,4 @@ def large(a,b):
         return b
 sum=lambda x,y:x+y
 sub=lambda x,y:x-y
-print("larger number is ",large(10,8))
+print("larger number is ",large(sum(10,8),sub(10,5)))
